@@ -44,18 +44,19 @@ src/
 ## 🛠️ Setup Instructions
 
 1. **Clone this repository**
+    - git clone <your-repo-url> 
+    - cd dashboard-ui  
+   - npm install  
+   - npm run dev
    
-   git clone <your-repo-url>
-   cd dashboard-ui
-   npm install
-   npm run dev
 
-   
 
 
 ---
 
 ## 🌍 Deployment Link - https://goismo-frontend.vercel.app/
+
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf1bef2e-80fc-4c44-ab7d-f16ab1820402" />
 
