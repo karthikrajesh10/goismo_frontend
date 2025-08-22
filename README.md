@@ -1,12 +1,7 @@
-
-
----
-
-```markdown
-# Dashboard UI Clone
+# 📊 Dashboard UI Clone
 
 This project is a simple **dashboard UI** built with modern frontend technologies.  
-It replicates a professional e-commerce / operations dashboard with sections for **actions, statistics, charts, and services**.
+It replicates a professional **e-commerce / operations dashboard** with sections for **actions, statistics, charts, and services**.
 
 ---
 
@@ -32,61 +27,35 @@ It replicates a professional e-commerce / operations dashboard with sections for
 
 ## 📂 Folder Structure
 
-```
-
-src/
-│── components/
-│   ├── Sidebar.jsx
-│   ├── Navbar.jsx
-│   ├── StatsCard.jsx
-│   ├── ChartSection.jsx
-│   ├── ActionCard.jsx
-│   ├── ServiceCard.jsx
-│── App.jsx
-│── main.jsx
-
-````
+src/  
+│── components/  
+│   ├── Sidebar.jsx  
+│   ├── Navbar.jsx  
+│   ├── StatsCard.jsx  
+│   ├── ChartSection.jsx  
+│   ├── ActionCard.jsx  
+│   ├── ServiceCard.jsx  
+│  
+│── App.jsx  
+│── main.jsx  
 
 ---
 
 ## 🛠️ Setup Instructions
 
-1. Clone this repository  
-   ```bash
+1. **Clone this repository**
+   
    git clone <your-repo-url>
    cd dashboard-ui
-````
-
-2. Install dependencies
-
-   ```bash
    npm install
-   ```
-
-3. Run the development server
-
-   ```bash
    npm run dev
-   ```
 
-4. Open in browser → https://goismo-frontend.vercel.app/
-
----
-
-## 📸 Preview
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/16386027-88aa-4acd-9250-193421be40eb" />
+   
 
 
 ---
 
-## 👨‍💻 Author
+## 🌍 Deployment Link - https://goismo-frontend.vercel.app/
 
-Built with ❤️ using React, Tailwind, and Lucide Icons.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf1bef2e-80fc-4c44-ab7d-f16ab1820402" />
 
-```
-
----
-
-Do you want me to also include a **section for deployment (like Vercel/Netlify setup)** in the README?
-```
